@@ -69,23 +69,3 @@ while True:
 		time.sleep(PER_USER_UPDATE_DELAY)
 	time.sleep(OVERALL_UPDATE_DELAY)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
