@@ -17,6 +17,12 @@
 
   //auth to download user information
   $securityAuth = "";
+  
+  //twilio information to send update sms messages
+  $twilioAccountSid = "";
+  $twilioAuthToken = "";
+  $twilioPhone = "+";
+
 
   //directory of all the files
   $baseUrl = "";
